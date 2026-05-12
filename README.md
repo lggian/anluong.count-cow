@@ -20,3 +20,5 @@ python count_cow_stable2.py
 ```bash
 python count_cow_gate.py
 ```
+-------------------------------------------------------------------------------------------------------------------
+Honestly, I’ve just written a small demo for a quick test of business, so I’m sorry this code is so sketchy and simple, and it also doesn’t have any metrics or percentages for a clear understanding of how this code will be useful! It’s just my first job, and I wanna show you this if you're interested in my CV. Thanks for reviewing my project ^_^!
